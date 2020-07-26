@@ -1,0 +1,8 @@
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\bin\Debug\netcoreapp3.1\TestExercise.exe
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\obj\Debug\netcoreapp3.1\TestExercise.csprojAssemblyReference.cache
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\obj\Debug\netcoreapp3.1\TestExercise.AssemblyInfoInputs.cache
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\obj\Debug\netcoreapp3.1\TestExercise.AssemblyInfo.cs
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\obj\Debug\netcoreapp3.1\TestExercise.csproj.CopyComplete
+C:\Users\d.romcevic\source\repos\StartPoint\StartPoint\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
